@@ -1,12 +1,3 @@
-<p align="center">
-  <button onclick="openChatPopup()">Chat with AI</button>
-</p>
+## Chat with AI
 
-<script>
-  function openChatPopup() {
-    let popup = window.open("https://your-username.github.io/ai-chatbot-ui/", "Chatbot", "width=400,height=600");
-    if (!popup) {
-      alert("Please allow pop-ups for this site!");
-    }
-  }
-</script>
+[Click here to chat with AI](https://your-username.github.io/ai-chatbot-ui/)
