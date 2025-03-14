@@ -1,3 +1,3 @@
 ## Chat with AI
 
-[Click here to chat with AI](https://your-username.github.io/ai-chatbot-ui/)
+[Click here to chat with AI](https://sharathpd14.github.io/ChatBot-UI/)
